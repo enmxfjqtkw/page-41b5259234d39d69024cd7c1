@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1fe59f4120.ejzbjpk.cn/sitemap.xml
